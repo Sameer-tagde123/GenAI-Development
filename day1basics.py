@@ -23,7 +23,7 @@
 
 # ------------------------------------------------------------------------------------------------------------------------------
 
-  # List
+# List
 # skills = ["Python", "Git", "APIs"]
 # skills.append("FastAPI")
 # print(skills[0])        # first item
@@ -74,7 +74,6 @@
 
 
 
-import string
 
 import requests
 
